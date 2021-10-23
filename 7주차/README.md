@@ -1,4 +1,5 @@
-#6주차 실습
+6주차 실습
+==========
 1. 내장 청커 사용 (Chunker.ipynb)
 1. 간단한 청커 작성 (SimpleChunker.ipynb)
 1. 청커 학습 (TrainingChunker.ipynb)
